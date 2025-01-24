@@ -1,5 +1,5 @@
 import { Footer } from "@/component/Footer/Footer";
-import Headline from "@/component/Headline/Headline";
+import {Headline} from "@/component/Headline/Headline";
 import { Links } from "@/component/Links/Links";
 // import Image from "next/image";
 
@@ -10,7 +10,7 @@ export default function Home() {
 
         <Headline  pcat="Nyaaaaaaan!!! " />
 
-        <Links/>
+        <Links tcat="wooooooooo!!!" />
       </main>
 
       <Footer/>
