@@ -1,7 +1,7 @@
 
 import Image from "next/image";
 
-export default function Headline(props: any) {
+export  function Headline(props:any) {
   return (
     <div>
         <Image
